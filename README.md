@@ -1,5 +1,9 @@
 
 # RECYCLR
+
+![Recyclr](https://raw.githubusercontent.com/AritraBiswas9788/Public-Assets/main/Recyclr.png
+)
+
 ### A project made with ❤️ by 
 * [Aritra Biswas](https://github.com/AritraBiswas9788)
 * [Aditya Kumar](https://github.com/ak79036)
